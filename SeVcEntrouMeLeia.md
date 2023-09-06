@@ -1,3 +1,3 @@
 A criação desse projeto foi com o intuíto de usar e melhorar minha aprendizagem em python e mysql. Projeto totalmente pessoal.
 O projeto consiste da criação de um ambiente de cadastro de produtos. Para a criação da interface usei a biblioteca TKINTER (Design não é meu forte, criei apenas para fácil interação)
-Para acessar o aplicativo, basta instalar o arquivo .exe (obs: não tem senha a tela de login, é só clicar para entrar). Caso queira ler o código há alguns arquivos .py na pasta Código, a sequência da interface é ProjetoCAD -> Loginwindow -> MainProg -> TableWindow e as functions no Functions.py. Obrigado.
+Para acessar o aplicativo, basta instalar o arquivo .exe que esta na pasta Aplicativo (obs: não tem senha a tela de login, é só clicar para entrar). Caso queira ler o código há alguns arquivos .py na pasta Código, a sequência da interface é ProjetoCAD -> Loginwindow -> MainProg -> TableWindow e as functions no Functions.py. Obrigado.
